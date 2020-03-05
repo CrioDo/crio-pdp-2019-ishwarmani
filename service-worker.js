@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crio-pdp-2019-ishwarmani/precache-manifest.e44c2cc1554b2fa544f0942adbed6316.js"
+  "/crio-pdp-2019-ishwarmani/precache-manifest.25221cdd71f575b34a9f95146510a372.js"
 );
 
 self.addEventListener('message', (event) => {
